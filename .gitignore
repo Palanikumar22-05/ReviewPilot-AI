@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+reviewpilot.db
+uploads/*
+!uploads/.gitkeep
+reports/*
+!reports/.gitkeep
+.DS_Store
